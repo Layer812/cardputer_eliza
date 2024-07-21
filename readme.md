@@ -7,5 +7,5 @@ It's based on [Python implementation of the Eliza chatbot by Wade Brainerd](http
 1.Install the [Circuit Python firmware](https://circuitpython.org/board/m5stack_cardputer/)<br>
 2.Put all of code on github to your Cardputer.<br>
 ```
-$ git clone --recursive https://github.com/Layer812/Cardputer-Eliza/
+$ git clone --recursive https://github.com/Layer812/cardputer-eliza/
 ```
